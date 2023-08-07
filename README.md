@@ -1,5 +1,6 @@
 # Computational Models for Prognosis of Medication for Cardiovascular Diseases (Available now)
 ### This is a private project, cloning, copying, or forking any code and data while simultaneously passing it off as their own is not allowed (refer to copyright).
+## Note: Please go to folder Z_current->Neural Network to see predictions for all the drugs.
 
 Relevant Links-
 1. Copyright - https://www.springer.com/gp/authors-editors/authorandreviewertutorials/open-access/copyright-and-license/10286528
