@@ -15,6 +15,6 @@ Relevant Links-
 ![image](https://user-images.githubusercontent.com/73354099/190575699-d726f8ea-1d62-4dd3-bfec-9d4219aee9ca.png)
 
 # Authors
-### Vikram Shenoy
 ### Vinayak K Prasad
+### Vikram Shenoy
 ### Rishabh R
